@@ -1,9 +1,3 @@
-
-
-#def anotherNum():
-	#anotherNum = 
-	
-
 while True:
 	
 	ProductID = raw_input("Enter the 12 digit ProductID #: ") #get user input
